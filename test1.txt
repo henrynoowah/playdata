@@ -6,3 +6,4 @@ test
 수정과 add / commit 두 번
 한 번에 push
 두 번째 시도
+add와 commit을 하나의 명령어로 처리 - git commit -a -m"add + commit"
