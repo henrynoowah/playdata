@@ -9,3 +9,4 @@ test
 add와 commit을 하나의 명령어로 처리 - git commit -a -m"add + commit"
 혜경
 하운
+5시의 khk
